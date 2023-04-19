@@ -302,8 +302,8 @@ void booking(int busno)
 
 
 void file_init(int busno,int choice){
-    char carr[2],fbusno[20] = {"tno"};
-    char fseatname[20]={"Namelist"} ,fbuseat[20] ={"Seatno"};
+    char carr[2],fbusno[20] = {"data/tno"};
+    char fseatname[20]={"data/Namelist"} ,fbuseat[20] ={"data/Seatno"};
 
     itoa(busno,carr,10);
     strcat(fbusno,carr);
