@@ -1,8 +1,8 @@
 # Bus-reservation-System
 Bus reservation system in c.
 
-##Functionality:
--> select destination and book seats
--> Cancel booking
--> View status
+##Functionality:<br>
+-> select destination and book seats<br>
+-> Cancel booking<br>
+-> View status<br>
 
